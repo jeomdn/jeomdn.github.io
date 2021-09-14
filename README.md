@@ -1,2 +1,2 @@
 # jeomdn.github.io
-Wev development
+Web development
